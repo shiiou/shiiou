@@ -28,7 +28,7 @@
 <img src=https://img.shields.io/discord/1002948665549266975?color=blue&label=Discord&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>    
 </div>  
-//- ⚡ My networks | [Instagram](https://www.instagram.com/ls_twitch/) • [Twitter](https://twitter.com/LittleShiiou) • [Discord](https://discord.gg/aVZb4emM69)  
+<!--- ⚡ My networks | [Instagram](https://www.instagram.com/ls_twitch/) • [Twitter](https://twitter.com/LittleShiiou) • [Discord](https://discord.gg/aVZb4emM69)-->  
   
 
 <br/>  
