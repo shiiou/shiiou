@@ -74,32 +74,15 @@
 </a>    
 </div>  
   
-
 <br/>  
 
 -->
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LittleShiiouDEV&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Number of views
-![Profile views counter](https://komarev.com/ghpvc/?username=LittleShiiouDEV&&style=flat-square)  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
 <br />
 
 ----
+![Profile views counter](https://komarev.com/ghpvc/?username=LittleShiiouDEV&&style=for-the-badge)
+
 <div align="center">©2022 - LittleShiiouD3V</div>
