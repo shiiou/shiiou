@@ -43,7 +43,7 @@
 <br/>  
 
 
-## Connect with me  
+## My networks  
 <div align="center">
 <a href="https://github.com/LittleShiiouDEV" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -69,7 +69,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Number of views
 ![Profile views counter](https://komarev.com/ghpvc/?username=LittleShiiouDEV&&style=flat-square)  
   
 
