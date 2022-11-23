@@ -4,9 +4,9 @@
   
 ### <div align="center">I'm Little Shiiou, a developer in self-taught 👨‍💻 learn since 2019 🚀</div>
  
-## <div align="center">🎮 I’m currently not working</div>
+### <div align="center">🎮 I’m currently not working</div>
   
-## <div align="center">💻 I’m currently learning in self-taught on 🎨,📷,🎬,🎥</div>  
+### <div align="center">💻 I’m currently learning in self-taught on 🎨,📷,🎬,🎥</div>  
 
 <br/>
 
