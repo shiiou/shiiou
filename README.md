@@ -3,7 +3,7 @@
 </div>  
   
 
-### I'm Little Shiiou, a developer self-taught 👨‍💻 working remotely since 2019 🚀  
+### I'm Little Shiiou, a developer in self-taught 👨‍💻 working since 2019 🚀  
   
 
 - 🎮 I’m currently not working  
