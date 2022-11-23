@@ -83,6 +83,4 @@
 <br />
 
 ----
-![Profile views counter](https://komarev.com/ghpvc/?username=LittleShiiouDEV&&style=for-the-badge)
-
-<div align="center">©2022 - LittleShiiouD3V</div>
+<div align="center">©2022 - LittleShiiouD3V <img src="https://komarev.com/ghpvc/?username=LittleShiiouDEV&&style=for-the-badge"/></div>
