@@ -49,29 +49,6 @@
 </div>
 <br/>  
 
-<!--
-## My networks  
-<div align="center">
-<a href="https://github.com/LittleShiiouDEV" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/LittleShiiou" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ls_twitch" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/@littleshiioutv" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-<a href="https://discord.gg/aVZb4emM69" target="_blank">
-<img src=https://img.shields.io/discord/1002948665549266975?color=blue&label=Discord&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>    
-</div>  
-  
-<br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LittleShiiouDEV&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
