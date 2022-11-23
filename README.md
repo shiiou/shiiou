@@ -2,15 +2,14 @@
 <!--<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />-->
 </div>  
   
-
 ### I'm Little Shiiou, a developer in self-taught 👨‍💻 working since 2019 🚀  
-  
-
+ 
 - 🎮 I’m currently not working  
   
-
 - 💻 I’m currently learning in self-taught on 🎨,📷,🎬,🎥  
-  
+
+<br/>
+
 <div align="center">
 <a href="https://github.com/LittleShiiouDEV" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -29,10 +28,8 @@
 </a>    
 </div>  
 <!--- ⚡ My networks | [Instagram](https://www.instagram.com/ls_twitch/) • [Twitter](https://twitter.com/LittleShiiou) • [Discord](https://discord.gg/aVZb4emM69)-->  
-  
 
 <br/>  
-
 
 ## Programming   
 <div>
