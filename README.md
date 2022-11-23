@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Little Shiiou, a developer self-taught 👨‍💻 working remotely since 2019 🚀</div>  
+### I'm Little Shiiou, a developer self-taught 👨‍💻 working remotely since 2019 🚀  
   
 
 - 🎮 I’m currently not working  
