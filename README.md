@@ -54,7 +54,7 @@
 </div>
 <br/>  
 
-
+<!--
 ## My networks  
 <div align="center">
 <a href="https://github.com/LittleShiiouDEV" target="_blank">
@@ -77,7 +77,7 @@
 
 <br/>  
 
-
+-->
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LittleShiiouDEV&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
