@@ -56,6 +56,9 @@
 <a href="https://www.youtube.com/user/@littleshiioutv" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+<a href="https://discord.gg/aVZb4emM69" target="_blank">
+<img src=https://img.shields.io/discord/1002948665549266975?color=blue&label=Discord&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>    
 </div>  
   
 
