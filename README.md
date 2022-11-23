@@ -2,7 +2,7 @@
 <!--<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />-->
 </div>  
   
-### <div align="center">I'm Little Shiiou, a developer in self-taught 👨‍💻 working since 2019 🚀</div>
+### <div align="center">I'm Little Shiiou, a developer in self-taught 👨‍💻 learn since 2019 🚀</div>
  
 <div align="center">🎮 I’m currently not working</div>
   
