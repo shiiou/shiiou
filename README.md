@@ -48,11 +48,11 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
 <br/>  
-
+<!--
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LittleShiiouDEV&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br />
-
+-->
 ----
 <div align="center"><img src="https://komarev.com/ghpvc/?username=LittleShiiouDEV&&style=for-the-badge"/></div>
