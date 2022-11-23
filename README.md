@@ -83,4 +83,4 @@
 <br />
 
 ----
-<div align="center"><img src="https://komarev.com/ghpvc/?username=LittleShiiouDEV&&style=flat-square"/><br>©2022 - LittleShiiouD3V</div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=LittleShiiouDEV&&style=for-the-badge"/><br>©2022 - LittleShiiouD3V</div>
