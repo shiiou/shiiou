@@ -14,6 +14,7 @@
 - ⚡ My networks | [Instagram](https://www.instagram.com/ls_twitch/) • [Twitter](https://twitter.com/LittleShiiou) • [Discord](https://discord.gg/aVZb4emM69)
 -->
 
+----
 <div align="left">
   
   <a href="https://github.com/LittleShiiouDEV" target="_blank">
@@ -42,8 +43,7 @@
   
 </div>  
 
-  
-
+----
 <br/>  
 
 ## Programming
