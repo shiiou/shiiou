@@ -1,5 +1,5 @@
 <div align="center">
-<!--<img src="images/littleshiiou-banner.png" align="center" style="width: 100%" />-->
+<img src="images/littleshiiou-banner.png" align="center" style="width: 100%" />
 </div>  
   
 ### <div align="center">👨‍💻 I'm Little Shiiou, a developer in self-taught since 2019 🚀</div>
