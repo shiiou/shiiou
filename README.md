@@ -9,7 +9,7 @@
 - 🎮 I’m currently not working
   
 - 💻,🎨,📷,🎬,🎥  
-- 
+
 <!--
 - ⚡ My networks | [Instagram](https://www.instagram.com/ls_twitch/) • [Twitter](https://twitter.com/LittleShiiou) • [Discord](https://discord.gg/aVZb4emM69)
 -->
