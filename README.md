@@ -1,7 +1,5 @@
-<div align="center">
-  
-  <img src="images/littleshiiou-banner.jfif" align="center" style="width: 100%" />
-  
+<div align="center">  
+  <img src="images/littleshiiou-banner.jfif" align="center" style="width: 100%" />  
 </div>  
   
 ## 👨‍💻 I'm Mathis alias Little Shiiou, a Developer & Graphic Design in self-taught since 2019 🚀
@@ -15,6 +13,7 @@
 -->
 
 ----
+
 <div align="center">  
   <a href="https://github.com/LittleShiiouDEV" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -37,7 +36,6 @@
 </div>  
 
 ----
-<br/>  
 
 <div align="left">
 ## Programming
