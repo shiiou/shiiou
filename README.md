@@ -30,7 +30,7 @@
   <a href="https://www.twitch.tv/littleshiiou" target="_blank">
     <img src=https://img.shields.io/twitch/status/littleshiiou?color=purple&label=Twitch&style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" />
   </a>    
-  <a href="https://discord.gg/aVZb4emM69" target="_blank">
+  <a href="https://discord.gg/SnMpBVT8VG" target="_blank">
     <img src=https://img.shields.io/discord/1002948665549266975?color=blue&label=Discord&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
   </a>  
 </div>  
