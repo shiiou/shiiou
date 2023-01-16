@@ -2,7 +2,7 @@
   <img src="images/littleshiiou-banner.jfif" align="center" style="width: 100%" />  
 </div>  
   
-## 👨‍💻 I'm Mathis alias Little Shiiou, a Developer & Graphic Design in self-taught since 2019
+## 👨‍💻 I'm Mathis alias LittleShiiou, a Developer & Graphic Design in self-taught since 2019
  
 - 🎮 I’m currently not working
   
