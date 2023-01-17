@@ -53,8 +53,9 @@
 
 <br/>  
 
-## My computer  
-<img src="https://i.imgur.com/LXo3enl.png" align="center" width="50%" />  
+## My computer
+<div align="center">
+<img src="https://i.imgur.com/LXo3enl.png" width="50%" />  
 
 ----
 
