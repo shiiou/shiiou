@@ -53,10 +53,8 @@
 
 <br/>  
 
-<!--
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=LittleShiiouDEV&show_icons=true&count_private=true&hide_border=true" align="center" />  
--->
+## My computer  
+<img src="https://i.imgur.com/LXo3enl.png" align="center" width="100%" />  
 
 ----
 
