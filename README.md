@@ -54,7 +54,7 @@
 <br/>  
 
 ## My computer  
-<img src="https://i.imgur.com/LXo3enl.png" align="center" width="100%" />  
+<img src="https://i.imgur.com/LXo3enl.png" align="center" height="100%" />  
 
 ----
 
