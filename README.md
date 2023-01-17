@@ -55,8 +55,8 @@
 
 ## My computer
 <div align="center">
-<img src="https://i.imgur.com/LXo3enl.png" width="50%" />  
-
+   <img src="https://i.imgur.com/LXo3enl.png" width="50%" />  
+</div>
 ----
 
 <div align="center">  
