@@ -55,7 +55,8 @@
 
 ## My computer
 <div align="center">
-   <img src="https://panels.twitch.tv/panel-580279551-image-809d893b-e693-4287-a7e4-f560e62910d7" width="35%" />  
+   <img src="https://panels.twitch.tv/panel-580279551-image-809d893b-e693-4287-a7e4-f560e62910d7" width="35%" />
+   <img src="https://panels.twitch.tv/panel-580279551-image-caeca2e5-57ab-4cf4-b0c4-979284e24c0c" width="35%" />
 </div>
   
 ----
