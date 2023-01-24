@@ -14,25 +14,6 @@
 
 ----
 
-<div align="center">    
-  <a href="https://github.com/shaynaru" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>    
-  <a href="https://twitter.com/itsshaytv" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>    
-  <a href="https://instagram.com/shaynarutv" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>    
-  <a href="https://www.youtube.com/@littleshiioutv" target="_blank">
-    <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-  </a>    
-  <a href="https://www.twitch.tv/shaynaru" target="_blank">
-    <img src=https://img.shields.io/twitch/status/shaynaru?color=purple&label=Twitch&style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" />
-</div>  
-
-----
-
 # Programming
 <div align="left">  
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
