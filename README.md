@@ -2,7 +2,7 @@
   <img src="images/bannergithubshay.png" align="center" style="width: 100%" />  
 </div>  
   
-## 👨‍💻 I'm Mathis alias Shay, a Developer & Graphic Design in self-taught since 2019
+## 👨‍💻 I'm Mathis alias Shay, a Developer & Graphic Design in self-taught
  
 - 🎮 I’m currently not working
   
