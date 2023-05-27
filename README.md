@@ -35,7 +35,7 @@
 
 ## My computer
 <div align="center">
-   <img src="https://panels.twitch.tv/panel-580279551-image-6467954a-a17d-4bc3-96e3-8923c4315895" width="35%" />
+   <img src="https://i.goopics.net/obk15m.png" width="35%" />
 </div>
   
 ----
