@@ -35,7 +35,7 @@
 
 ## My computer
 <div align="center">
-   <img src="https://i.goopics.net/obk15m.png" width="35%" />
+   <img src="https://i.goopics.net/ef1y4h.png" width="35%" />
 </div>
   
 ----
