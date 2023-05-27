@@ -1,5 +1,5 @@
 <div align="center">  
-  <img src="images/bannergithubshay.png" align="center" style="width: 100%" />  
+  <img src="images/bannergithubshiiou.png" align="center" style="width: 100%" />  
 </div>  
   
 ## 👨‍💻 I'm Mathis alias Shiiou, a Developer & Graphic Design in self-taught
