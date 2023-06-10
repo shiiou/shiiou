@@ -1,5 +1,5 @@
 <div align="center">  
-  <img src="images/bannergithubshiiou.png" align="center" style="width: 100%" />  
+  <img src="images/shiiougithubio.png" align="center" style="width: 100%" />  
 </div>  
   
 ## 👨‍💻 I'm Mathis alias Shiiou, a Developer & Graphic Design in self-taught
@@ -35,7 +35,7 @@
 
 ## My computer
 <div align="center">
-   <img src="https://i.goopics.net/ef1y4h.png" width="35%" />
+   <img src="https://i.goopics.net/74jvo1.png" width="35%" />
 </div>
   
 ----
