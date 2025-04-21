@@ -5,7 +5,7 @@
 ## 👨‍💻 I'm Mathis alias Shiiou
 ## I do development and configuration especially in my spare time but nothing more.
  
-- 🎮 I’m currently not working
+- 🙄 I’m currently not working
   
 - 💻,🎨,📷,🎬  
 
