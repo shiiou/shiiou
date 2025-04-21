@@ -3,7 +3,7 @@
 </div>  
   
 ## 👨‍💻 I'm Mathis alias Shiiou
-## i do development and configuration especially in my spare time but nothing more.
+## I do development and configuration especially in my spare time but nothing more.
  
 - 🎮 I’m currently not working
   
