@@ -20,7 +20,7 @@
 
 ## 📌 Portfolio  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shiiou&repo=shiiou.github.io&theme=radical)](https://github.com/shiiou/shiiou.github.io)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shiiou&repo=shiiou.github.io&theme=radical)](https://shiiou.github.io/)  
 
 ---
 
