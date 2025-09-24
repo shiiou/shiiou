@@ -48,9 +48,5 @@ J’aime explorer, créer et partager des projets qui me permettent de progresse
 ----
 
 <div align="center">  
-  <img src="https://komarev.com/ghpvc/?username=shiiou&label=VISITEURS&color=00ff00&style=flat-square" alt="visitors" />
-  <br><br>
-  <pre style="color:#00ff00; background-color:#000; padding:10px; border-radius:8px; display:inline-block;">
-  > profile_views = █ █ █ █ █
-  </pre>
+  <img src="https://komarev.com/ghpvc/?username=shiiou&label=👀%20Views&color=00ff00&style=for-the-badge"/>  
 </div>
