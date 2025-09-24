@@ -1,10 +1,8 @@
 <div align="center">
   <img src="images/shiiou_d3v.svg" alt="README snapshot" style="width:100%"/>
-</div>
-<div align="center">  
-  <img src="images/shiiougithubio.png" align="center" style="width: 100%" />  
-</div>  
-  
+  <img src="images/shiiougithubio.png" align="center" style="width: 100%" /> 
+</div> 
+   
 ---
 
 ## 🚀 Skills  
