@@ -48,7 +48,6 @@ J’aime explorer, créer et partager des projets qui me permettent de progresse
 ----
 
 <div align="center">  
-  <img src="https://komarev.com/ghpvc/?username=shiiou&&style=for-the-badge"/>
   <pre style="color:#00ff00; background:#000; padding:10px; border-radius:8px; display:inline-block;">
     <img src="https://komarev.com/ghpvc/?username=shiiou&&style=for-the-badge"/>
   </pre>
