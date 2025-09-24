@@ -26,9 +26,6 @@ J’aime explorer, créer et partager des projets qui me permettent de progresse
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shiiou&repo=shiiou.github.io&theme=radical)](https://github.com/shiiou/shiiou.github.io)  
 
-//
-*(⚡ remplace `NomDuProjet1/2/3` par les noms exacts de tes dépôts GitHub que tu veux afficher en carte)*
-//
 ---
 
 ## 📊 Stats GitHub  
