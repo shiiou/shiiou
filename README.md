@@ -48,5 +48,8 @@ J’aime explorer, créer et partager des projets qui me permettent de progresse
 ----
 
 <div align="center">  
-  <img src="https://komarev.com/ghpvc/?username=shiiou&&style=for-the-badge"/>  
+  <img src="https://komarev.com/ghpvc/?username=shiiou&label=👀%20Profile%20Views&color=00ff00&style=flat-square" width="0" height="0" />  
+  <pre style="color:#00ff00; background:#000; padding:10px; border-radius:8px; display:inline-block;">
+  [ACCESS LOG] >>> Profile Views active...
+  </pre>
 </div>
