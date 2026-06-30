@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
+<!--
 ## 📌 Portfolio  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shiiou&repo=shiiou.github.io&theme=radical)](https://shiiou.github.io/)  
@@ -27,7 +27,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiiou&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiiou&layout=compact&theme=radical)  
 
-----
+---->
 
 <div align="center">  
   <pre style="color:#00ff00; background:#000; padding:10px; border-radius:8px; display:inline-block;">  
